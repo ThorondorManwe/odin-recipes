@@ -1,0 +1,41 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: rgb(0, 174, 255);
+}
+
+#nav {
+    background-color: rgb(12, 6, 43);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav li {
+    float: left;
+}
+  
+#nav a {
+    display: inline;
+    padding: 8px;
+    width: 80px;
+    color: white;
+    background-color: rgb(21, 142, 179);
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+
+/* Esilos para atole de mazapán*/
+.atole {
+    width: 300px;
+    height: auto;
+}
